@@ -3,9 +3,9 @@ requires = ["setuptools>=64", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "your-project" # TODO: Replace with your project name
+name = "Heat-Pump-Analysis" # TODO: Replace with your project name
 version = "0.1.0" # TODO: Replace with your version
-description = "Your description here" # TODO: Replace with your description
+description = "Heat pump deployment optimization for UK government policy" # TODO: Replace with your description
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.10"
