@@ -7,7 +7,7 @@ The UK Government asked for analysis of England’s housing stock to see where h
 
 -- data/raw/                          # EPC data (not in git)
 
--- outputs/                           # Results and figures
+-- outputs/                           # Slide deck and figures
 
 -- requirements.txt                   # Python dependencies
 
