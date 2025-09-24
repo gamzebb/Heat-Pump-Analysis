@@ -4,9 +4,13 @@ The UK Government asked for analysis of England’s housing stock to see where h
 
 ## Project Structure
 -- Notebook/Data_Exploration.ipynb    # Main analysis
+
 -- data/raw/                          # EPC data (not in git)
+
 -- outputs/                           # Results and figures
+
 -- requirements.txt                   # Python dependencies
+
 -- README.md                          # This file
 
 ## Data and reproducibility
